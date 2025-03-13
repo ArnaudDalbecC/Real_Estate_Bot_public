@@ -3,7 +3,9 @@ and a real estate agent. To achieve this, I use a pre-trained LLM and feed it wi
 context window and the conversation with the client. The bot automatically responds to the
 emails it receives.
 
-To execute the program, run usage.py
+To execute the program, 
+- Fill in missing informations for model API, email API and bot context
+- run usage.py
 
 You should write to the bot first so that it responds to your email when you execute the program
 
